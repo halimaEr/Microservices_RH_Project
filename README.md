@@ -11,7 +11,7 @@ Ce projet est une plateforme de gestion des ressources humaines basée sur une a
 * Candidats
 * Recruteurs
 * Administration des utilisateurs
-  # Objectif du projet
+# Objectif du projet
 
 Ce projet vise à simuler un système réel de recrutement en entreprise avec une architecture moderne basée sur les microservices et une séparation claire entre backend et frontend.
 
@@ -72,16 +72,16 @@ Superviser la plateforme
 ## Cloner le projet
 * git clone https://github.com/halimaEr/Microservices_RH_Project.git
 * cd Microservices_RH_Project
-  ### Backend (Spring Boot)
+### Backend (Spring Boot)
 * chaque microservice dans IntelliJ IDEA
 * Configurer la base de données MySQL dans application.properties
 * Lancer les services un par un
-  ### Frontend (Angular)
+### Frontend (Angular)
 * cd frontend
 * npm install
 * ng serve
 
-  ### Base de données
+### Base de données
 * Démarrer XAMPP
 * Activer MySQL
 
